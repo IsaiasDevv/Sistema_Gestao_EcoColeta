@@ -109,3 +109,35 @@ O **EcoColeta** demonstra como a tecnologia pode ser utilizada para gerar impact
 ## 💬 Contribuição
 
 Este projeto foi desenvolvido para fins acadêmicos, mas sugestões e melhorias são sempre bem-vindas!
+
+### **_Interface Gráfica_**
+
+<img width="538" height="585" alt="Image" src="https://github.com/user-attachments/assets/195532ae-8e7d-43c5-acbd-0a9d423c0650" />
+
+### **_Interface Gráfica Menu Cidadão_**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fdc8955e-8f09-4776-8c4c-c4916f7befb6" />
+
+### **_Interface Gráfica Menu Administrador_**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1532079b-00a4-4d96-92a5-b9e4a266fe8a" />
+
+### **_Interface Gráfica Via Linha de Comando_**
+
+<img width="1087" height="456" alt="Image" src="https://github.com/user-attachments/assets/324f9c85-5904-417c-98cf-20a20e1ba7f8" />
+
+### **_Organização das Pastas do Projeto_** 
+
+<img width="240" height="229" alt="Image" src="https://github.com/user-attachments/assets/01ec104f-2a81-4110-81b9-5d348b7f494e" />
+
+### **_Clientes Conectados_**
+
+<img width="1084" height="252" alt="Image" src="https://github.com/user-attachments/assets/7b338393-6c43-4533-bef9-e159ce7e6799" />
+
+### **_Servidor Iniciado_** 
+
+<img width="1089" height="174" alt="Image" src="https://github.com/user-attachments/assets/939852c6-9f16-472a-8ade-e07236389ddd" />
+
+### **_Cliente Servidor_**
+
+<img width="461" height="222" alt="Image" src="https://github.com/user-attachments/assets/d82688c7-e38c-433e-a59e-e049897273d2" />
